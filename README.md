@@ -3,7 +3,8 @@ In this github repo you will find the files of the latest version of our custom 
 This texture pack adds texture to all the nether custom items, as well to most of the items from skyblock+
 
 # How To install a texture pack
-  1. Download the texture pack, from discord, in game (with the command /texturepack) or from github in the green button that says "code" (you will have to download the zip version and unzip it, only once)
+  1. Download the texture pack, from discord, in game (with the command /texturepack) or from github (Click on 
+  SkyBlockPack.zip file and then you should see a download button on the right)
   2. Go to  your resource pack folder, you can find it, going to Settings, Resource Packs and clicking on the bottom left button that says "Open Pack Folder"
   3. Paste the SkyBlockPack.zip into the folder
   4. Activate the pack by moving it to the "Selected" texture packs
